@@ -1,4 +1,8 @@
 # Cheesy Bacon Green Bean Casserole
+![Cheesy Bacon Green Bean Casserole Ingredients](../images/cheesy-bacon-green-bean-casserole-ingredients.jpg)
+![Cheesy Bacon Green Bean Casserole](../images/cheesy-bacon-green-bean-casserole.jpg)
+
+
 ## Ingredients
 | Amount      | Ingredient                              |
 |-------------|-----------------------------------------|
