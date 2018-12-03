@@ -2,7 +2,7 @@
 ## Ingredients
 | Amount   | Ingredient                                          |
 |----------|-----------------------------------------------------|
-| 4-6      | Boneless, skinless Chicken Breasts                  |
+| 4-6      | Boneless, Skinless Chicken Breasts                  |
 | 1 head   | Cabbage, chopped in 1/8ths, 1/2 inch slices         |
 | 2 large  | Zucchini, roughly chopped                           |
 | 1 large  | Yellow Onion, roughly chopped                       |
