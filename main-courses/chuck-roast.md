@@ -1,4 +1,8 @@
 # Chuck Roast
+![Chuck Roast Ingredients](../images/chuck-roast-ingredients.jpg)
+![Chuck Roast Before](../images/chuck-roast-before.jpg)
+![Chuck Roast After](../images/chuck-roast-after.jpg)
+
 ## Ingredients
 | Amount   | Ingredient                      |
 |----------|---------------------------------|
