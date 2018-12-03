@@ -1,5 +1,5 @@
 # Spicy Chicken Cabbage Soup
-![Spicy Chicken Cabbage Soup](/images/spicy-chicken-cabbage-soup.md)
+![Spicy Chicken Cabbage Soup](../images/spicy-chicken-cabbage-soup.md)
 
 ## Ingredients
 | Amount   | Ingredient                                          |
