@@ -6,6 +6,7 @@
 
 
 ## Ingredients
+
 | Amount      | Ingredient                              |
 |-------------|-----------------------------------------|
 | 3 cups      | Cooked Green Beans                      |

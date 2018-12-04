@@ -2,6 +2,7 @@
 
 # Kielbasa & Sauerkraut
 ## Ingredients
+
 | Amount   | Ingredient                     |
 |----------|--------------------------------|
 | 2 lb     | Sauerkraut, rinsed and drained |

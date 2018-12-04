@@ -6,6 +6,7 @@
 ![Chuck Roast After](../images/chuck-roast-after.jpg)
 
 ## Ingredients
+
 | Amount   | Ingredient                      |
 |----------|---------------------------------|
 | 3.5 lb   | Chuck Roast                     |

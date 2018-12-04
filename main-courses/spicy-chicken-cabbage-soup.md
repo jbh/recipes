@@ -4,6 +4,7 @@
 ![Spicy Chicken Cabbage Soup](../images/spicy-chicken-cabbage-soup.jpg)
 
 ## Ingredients
+
 | Amount   | Ingredient                                          |
 |----------|-----------------------------------------------------|
 | 4-6      | Boneless, Skinless Chicken Breasts                  |
