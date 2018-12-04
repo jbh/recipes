@@ -1,3 +1,5 @@
+[Recipes](..) > [Main Courses](.) > Kielbasa & Sauerkraut
+
 # Kielbasa & Sauerkraut
 ## Ingredients
 | Amount   | Ingredient                     |

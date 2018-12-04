@@ -1,3 +1,5 @@
+[Recipes](..) > [Main Courses](.) > Spicy Chicken Cabbage Soup
+
 # Spicy Chicken Cabbage Soup
 ![Spicy Chicken Cabbage Soup](../images/spicy-chicken-cabbage-soup.jpg)
 
