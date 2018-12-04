@@ -1,4 +1,4 @@
-[Recipes](..) > [Sides](.) > Cheesy Bacon Green Bean Casserole
+[Recipes](/recipes/) > [Sides](/recipes/sides/) > Cheesy Bacon Green Bean Casserole
 
 # Cheesy Bacon Green Bean Casserole
 ![Cheesy Bacon Green Bean Casserole Ingredients](../images/cheesy-bacon-green-bean-casserole-ingredients.jpg)
