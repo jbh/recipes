@@ -9,7 +9,7 @@
 |----------|--------------------------------|
 | 2 lb     | Sauerkraut, rinsed and drained |
 | 2 lb     | Kielbasa, 1/2 inch slices      |
-| 1 medium | Yellow Onion, thickly sliced   |
+| 1 large  | Yellow Onion, thickly sliced   |
 | 6 cloves | Garlic, thinly sliced          |
 | 1/2 cup  | Water                          |
 | 2 tsp    | Better Than Bouillon Chicken   |
