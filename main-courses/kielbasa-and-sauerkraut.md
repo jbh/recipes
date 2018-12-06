@@ -22,3 +22,6 @@
 3. Add 1 tbsp butter to preheated pan. Cook onions until well browned, but not
 caramelized. Add the rest of the butter. Add garlic, cook until fragrant.
 4. Add all ingredients to slow cooker. Mix well. Cook on high for 6 hours.
+
+> Leftover Idea: Breakfast bowl. Cook some bacon, chop up, add to leftovers in a
+bowl. Fry an egg and add on top.
