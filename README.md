@@ -8,3 +8,4 @@ My home recipes. All Keto.
 
 # [Sides](sides)
 * [Cheesy Bacon Green Bean Casserole](sides/cheesy-bacon-green-bean-casserole.md)
+* [Simple Cauliflower Fried Rice](sides/simple-cauliflower-fried-rice.md)
