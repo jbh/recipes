@@ -1,8 +1,8 @@
 [Recipes](..) > [Main Courses](.) > Kielbasa & Sauerkraut
 
 # Kielbasa & Sauerkraut
-![Kielbasa & Sauerkraut Before](../images/kielbasa-sauerkraut-before.jpg)
-![Kielbasa & Sauerkraut After](../images/kielbasa-sauerkraut-after.jpg)
+![Kielbasa & Sauerkraut Before](https://github.com/jbh/recipes/raw/master/images/kielbasa-sauerkraut-before.jpg)
+![Kielbasa & Sauerkraut After](https://github.com/jbh/recipes/raw/master/images/kielbasa-sauerkraut-after.jpg)
 
 ## Ingredients
 

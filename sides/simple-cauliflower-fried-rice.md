@@ -1,8 +1,8 @@
 [Recipes](..) > [Sides](.) > Simple Cauliflower Fried Rice
 
 # Simple Cauliflower Fried Rice
-![Simple Cauliflower Fried Rice Ingredients](../images/simple-cauliflower-fried-rice-ingredients.jpg)
-![Simple Cauliflower Fried Rice After](../images/simple-cauliflower-fried-rice-after.jpg)
+![Simple Cauliflower Fried Rice Ingredients](https://github.com/jbh/recipes/raw/master/images/simple-cauliflower-fried-rice-ingredients.jpg)
+![Simple Cauliflower Fried Rice After](https://github.com/jbh/recipes/raw/master/images/simple-cauliflower-fried-rice-after.jpg)
 
 ## Ingredients
 

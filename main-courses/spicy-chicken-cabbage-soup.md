@@ -1,7 +1,7 @@
 [Recipes](..) > [Main Courses](.) > Spicy Chicken Cabbage Soup
 
 # Spicy Chicken Cabbage Soup
-![Spicy Chicken Cabbage Soup](../images/spicy-chicken-cabbage-soup.jpg)
+![Spicy Chicken Cabbage Soup](https://github.com/jbh/recipes/raw/master/images/spicy-chicken-cabbage-soup.jpg)
 
 ## Ingredients
 
