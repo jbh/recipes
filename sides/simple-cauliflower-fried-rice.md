@@ -9,11 +9,11 @@
 | Amount   | Ingredient                              |
 |----------|-----------------------------------------|
 | 1 head   | Cauliflower, grated/processed           |
-| 2 tbsp   | Unsalted Butter                         |
+| 3 tbsp   | Unsalted Butter                         |
 | 1 tsp    | Salt                                    |
 | 1 tsp    | Black Pepper                            |
 | 4 cloves | Garlic, minced (Optional)               |
-| 1 tbsp   | Sesame Oil (Optional)                   |
+| 1/2 tbsp | Sesame Oil (Optional)                   |
 | 1 tsp    | Better Than Bouillon Chicken (Optional) |
 
 ## Instructions
@@ -25,3 +25,23 @@ to your liking. I like it pretty crispy, so about 15-20 minutes for me.
 > Suggestion: Treat this like any fried rice dish. Go wild. Add all sorts of
 ingredients. Scramble two eggs with it. Add peppers and onions. Add scallions.
 Add soy sauce. Whatever your heart desires.
+
+# Nutrition
+
+Serving Size: 1 Portion  
+Servings Per Recipe: 4
+
+| Nutrient            | Amount     |
+|---------------------|------------|
+| Calories            | 132.6 kcal |
+| Total Fat           | 11.1 g     |
+| &emsp;Saturated Fat | 6 g        |
+| &emsp;Trans Fat     | 0 g        |
+| Cholesterol         | 0 mg       |
+| Total Carbohydrate  | 7.5 g      |
+| &emsp;Dietary Fiber | 3.4 g      |
+| &emsp;Sugars        | 3.5 g      |
+| Protein             | 3.5 g      |
+| Sodium              | 744.5 mg   |
+| Potassium           | 220.7 mg   |
+| Magnesium           | 15.6 mg    |

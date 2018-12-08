@@ -11,8 +11,8 @@
 |-------------|-----------------------------------------|
 | 3 cups      | Cooked Green Beans                      |
 | 1/2 cup     | Shredded White Cheddar                  |
-| 1 small     | Onion, chopped                          |
-| 8oz         | Baby Bella Mushrooms, chopped           |
+| 1 small     | White Onion, chopped                    |
+| 8 oz        | Baby Bella Mushrooms, chopped           |
 | 6 slices    | Bacon, cooked, chopped, grease reserved |
 | 4 oz        | Pork rinds, crushed                     |
 | 1/2 cup     | Heavy Whipping Cream                    |
@@ -37,3 +37,23 @@ completely melted.
 choice. Cover in crushed pork rinds.
 8. Bake at 350 degrees until heated through, about 20 minutes.
 9. (Optional) Broil another minute or two to brown the top.
+
+# Nutrition
+
+Serving Size: 1 Portion  
+Servings Per Recipe: 6
+
+| Nutrient            | Amount     |
+|---------------------|------------|
+| Calories            | 275.6 kcal |
+| Total Fat           | 20.2 g     |
+| &emsp;Saturated Fat | 10 g       |
+| &emsp;Trans Fat     | 0.1 g      |
+| Cholesterol         | 58.1 mg    |
+| Total Carbohydrate  | 8.8 g      |
+| &emsp;Dietary Fiber | 3.2 g      |
+| &emsp;Sugars        | 2.7 g      |
+| Protein             | 16.7 g     |
+| Sodium              | 904 mg     |
+| Potassium           | 316.9 mg   |
+| Magnesium           | 16.7 mg    |
