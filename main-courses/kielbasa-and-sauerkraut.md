@@ -31,17 +31,17 @@ bowl. Fry an egg and add on top.
 Serving Size: 1 Portion  
 Servings Per Recipe: 8
 
-| Nutrient            | Amount    |
-|---------------------|-----------|
-| Calories            | 419 kcal  |
-| Total Fat           | 33.1 g    |
-| &emsp;Saturated Fat | 11.9 g    |
-| &emsp;Trans Fat     | 0 g       |
-| Cholesterol         | 69.4 mg   |
-| Total Carbohydrate  | 14.2 g    |
-| &emsp;Dietary Fiber | 7.8 g     |
-| &emsp;Sugars        | 3 g       |
-| Protein             | 14.9 g    |
-| Sodium              | 2757.7 mg |
-| Potassium           | 411.5 mg  |
-| Magnesium           | 2.3 mg    |
+| Nutrient            | Amount     |
+|---------------------|------------|
+| Calories            | 418.9 kcal |
+| Total Fat           | 33.1 g     |
+| &emsp;Saturated Fat | 11.9 g     |
+| &emsp;Trans Fat     | 0 g        |
+| Cholesterol         | 69.4 mg    |
+| Total Carbohydrate  | 14.2 g     |
+| &emsp;Dietary Fiber | 7.8 g      |
+| &emsp;Sugars        | 3 g        |
+| Protein             | 14.9 g     |
+| Sodium              | 2757.7 mg  |
+| Potassium           | 411.5 mg   |
+| Magnesium           | 2.3 mg     |
