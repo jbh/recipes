@@ -20,7 +20,7 @@
 | 1 pack   | Ranch Dressing Mix              |
 | 1/2 tsp  | Salt                            |
 | 1/2 tsp  | Pepper                          |
-| 1 tsp    | Xanthan Gum (Optional)          |
+| 1/2 tsp  | Xanthan Gum (Optional)          |
 
 ## Instructions
 1. (Optional) Cook mushrooms down separately in butter. Cook until the pan is
@@ -32,8 +32,8 @@ crust, or it isn't worth doing the sear.
 the roast. Distribute the slices of garlic evenly on top of the roast. Cover the
 roast with the ranch dressing mix. Gently add the rest of the ingredients.
 4. Cook on low for 8 hours or high for 6 hours.
-5. (Optional) After tearing the roast up, add 1 tsp of Xanthan Gum. Mix well and
-allow to thicken.
+5. (Optional) After tearing the roast up, add 1/2 tsp of Xanthan Gum. Mix well
+and allow to thicken.
 
 # Nutrition
 
@@ -42,15 +42,15 @@ Servings Per Recipe: 10
 
 | Nutrient            | Amount     |
 |---------------------|------------|
-| Calories            | 649.1 kcal |
+| Calories            | 648.6 kcal |
 | Total Fat           | 50 g       |
 | &emsp;Saturated Fat | 22.5 g     |
 | &emsp;Trans Fat     | 1.8 g      |
 | Cholesterol         | 133.4 mg   |
-| Total Carbohydrate  | 6.9 g      |
-| &emsp;Dietary Fiber | 1.4 g      |
+| Total Carbohydrate  | 6.8 g      |
+| &emsp;Dietary Fiber | 1.3 g      |
 | &emsp;Sugars        | 3.7 g      |
 | Protein             | 39.8 g     |
-| Sodium              | 936.1 mg   |
+| Sodium              | 931.8 mg   |
 | Potassium           | 662 mg     |
 | Magnesium           | 39.7 mg    |
