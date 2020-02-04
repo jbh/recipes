@@ -23,21 +23,22 @@
 | 1/2 tsp  | Xanthan Gum (Optional)          |
 
 ## Instructions
-1. (Optional) Cook mushrooms down separately in butter. Cook until the pan is
-dry. Add to the roast halfway through. This will help reduce the amount of
+1. (Optional) Cook mushrooms down separately in 1 tbsp butter. Cook until the pan
+is dry. Add to the roast halfway through. This will help reduce the amount of
 liquid at the end of cooking.
 2. (Optional) Pat roast dry. Sear roast on all sides. Remember to get a good
 crust, or it isn't worth doing the sear.
 3. Add roast to slow cooker. Spread the bouillon paste evenly over the top of
 the roast. Distribute the slices of garlic evenly on top of the roast. Cover the
-roast with the ranch dressing mix. Gently add the rest of the ingredients.
+roast with the ranch dressing mix. Gently add the rest of the ingredients, ending
+with the stick of butter on top.
 4. Cook on low for 8 hours or high for 6 hours.
-5. (Optional) After tearing the roast up, add 1/2 tsp of Xanthan Gum. Mix well
-and allow to thicken.
+5. (Optional) After tearing the roast up, add 1/2 tsp of Xanthan Gum (thickener).
+Mix well and allow to thicken.
 
 # Nutrition
 
-Serving Size: 1 Portion  
+Serving Size: 1 Portion
 Servings Per Recipe: 10
 
 | Nutrient            | Amount     |
