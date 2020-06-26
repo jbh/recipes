@@ -55,7 +55,7 @@ bacon and sausage.  Finally, top with grated cheese and put back in the oven.
 Bake for about 5-15 more minutes, depending on how well you like it cooked.
 10. Let cool, slice into pieces (I do 12) and Enjoy!
 
-> * Preshredded cheese usually has starches added to it so I don't buy it.
+> &ast; Preshredded cheese usually has starches added to it so I don't buy it.
 I purchase cheese in blocks and add it to a food processor and pulse for a few
 seconds. You could also just shred with a normal cheese grater. You can use any
 cheese you would like for the pizza, I just kept it simple with cheddar and
