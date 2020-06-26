@@ -25,7 +25,7 @@
 | 3 oz          | Medium Cheddar Cheese, shredded*                    |
 | 1-2 oz        | Mozzarella, shredded*                               |
 | 3             | Eggs                                                |
-| 1/4-3-4 cup   | [Cheese sauce](../sides/cheese-sauce.md)            |
+| 1/4-3-4 cup   | [Cheese sauce](https://cmtketo.com/recipes/sides/cheese-sauce/)|
 | Salt & Pepper to taste                                              |
 
 ## Instructions
