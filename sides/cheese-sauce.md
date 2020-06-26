@@ -21,10 +21,10 @@ Cook until all melted together, whisking frequently.
 2. Whisk in ground mustard and pepper and remove from heat.  
 3. Add in the cheese and stir well until all combined and melted.
 
-> *: You can use any of your favorite cheeses for this, I just
+> &ast; You can use any of your favorite cheeses for this, I just
 prefer to use cheddars and always have them on hand.
 
-> ** This recipe is great as use for dip, over veggies, as pizza sauce (check out
+> &ast;&ast; This recipe is great as use for dip, over veggies, as pizza sauce (check out
  our breakfast pizza recipe), or really with anything  you'd like to add a
  little cheese to.
 To reheat: add a dash of cream and stir before heating
